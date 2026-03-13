@@ -14,7 +14,7 @@ pip install pandas matplotlib scikit-learn joblib notebook
 2. Ouvrir `health_insurtech_project.ipynb`
 3. Exécuter les cellules dans l'ordre
 
-## Résultats attendus
+## Résultats 
 - Nettoyage RGPD
 - Régression linéaire interprétable
 - Métriques du modèle
